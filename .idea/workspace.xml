@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a55f241b-8705-4bd4-b411-59d4a59ae7e7" name="Default Changelist" comment="" />
+    <list default="true" id="a55f241b-8705-4bd4-b411-59d4a59ae7e7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/processWebhook.py" beforeDir="false" afterPath="$PROJECT_DIR$/processWebhook.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
