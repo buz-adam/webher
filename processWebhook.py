@@ -11,7 +11,7 @@ def favicon():
 @app.route('/')
 @app.route('/home')
 def home():
-    return '<html lang="en"> <head><meta charset="UTF-8"><title>FlaskApp</title></head><body> <img src="https://ichi.pro/assets/images/max/724/0*hVrbNMq2F7OkXVnE" alt="alternatetext">  <h1>Merhaba DÜNYA!</h1><h2>HerokuAPP!</h2><a href="https://heroku.com/">->heroku</a></body></html>'
+    return '<html lang="en"> <head><meta charset="UTF-8"><title>FlaskApp</title></head><body> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Heroku_logo.svg/2560px-Heroku_logo.svg.png" width="1020" height="285" alt="alternatetext"> <h1>BULUT BİLİŞİM(CLOUD COMPUTING)</h1><h2>HerokuAPP!</h2><a href="https://heroku.com/">               link->heroku</a></body></html>'
 
 if __name__ == "__main__":
     app.secret_key = 'ItIsASecret'
